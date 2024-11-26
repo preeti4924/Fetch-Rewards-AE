@@ -29,7 +29,7 @@ GROUP BY
 
 
 
--- When considering total number of items purchased from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
+-- When considering total number of items purchased from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?   
 
 
 -- Finding the receipt status with most purchased by keeping the first row from the ranked subquery 
